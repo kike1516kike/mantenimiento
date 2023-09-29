@@ -9,6 +9,8 @@
   <button class="btn btn-primary" type="button" id="buscar_usuario">Buscar</button>
 </div>
 
+<h2>hola</h2>
+
 <nav>
   <div class="nav nav-tabs " id="nav-tab" role="tablist" >
     <button class="nav-link active" id="nav-perfil-tab" data-bs-toggle="tab" data-bs-target="#nav-perfil" type="button" role="tab" aria-controls="nav-perfil" aria-selected="true">Perfil</button>
