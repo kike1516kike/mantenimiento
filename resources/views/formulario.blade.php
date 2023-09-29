@@ -9,7 +9,7 @@
   <button class="btn btn-primary" type="button" id="buscar_usuario">Buscar</button>
 </div>
 
-<h2>hola</h2>
+
 
 <nav>
   <div class="nav nav-tabs " id="nav-tab" role="tablist" >
